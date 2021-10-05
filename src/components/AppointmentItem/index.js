@@ -30,4 +30,3 @@ const AppointmentIem = props => {
 }
 
 export default AppointmentIem
-cccccccccccccccccccccjc
